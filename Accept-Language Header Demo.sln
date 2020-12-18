@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accept-Language Header Demo", "Accept-Language Header Demo\Accept-Language Header Demo.csproj", "{EDACB9A5-60E2-40A6-8953-7EE084BC8E37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDACB9A5-60E2-40A6-8953-7EE084BC8E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDACB9A5-60E2-40A6-8953-7EE084BC8E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDACB9A5-60E2-40A6-8953-7EE084BC8E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDACB9A5-60E2-40A6-8953-7EE084BC8E37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DB9BB08-630E-45A3-BCF5-4234F70F1B31}
+	EndGlobalSection
+EndGlobal
